@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    border: border_box;
+    
+}
+
+.navber{
+    height: 65px;
+    background-color: rgb(103, 239, 239);
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+#title{
+    text-align: center;
+
+}
+.reg{
+    width: 300px;
+    margin: auto;
+    
+    
+}
+span{
+    color: red;
+}
+.tbl{
+    border: 1px solid black;
+    
+}
